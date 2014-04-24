@@ -81,34 +81,34 @@ listed below:
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 
 
- a. At least once every 12 months, we reassert compliance with this document.
+  a. At least once every 12 months, we reassert compliance with this document.
 
- b. This reassertion must be after reasonable efforts to ensure that the
-    assertion of compliance is accurate. 
+  b. This reassertion must be after reasonable efforts to ensure that the
+     assertion of compliance is accurate. 
 
- c. If the organization operating this domain has annual revenue of more than
-    USD 25 million or €18 million in inflation-adjusted 2013 currency, it
-    will conduct an annual audit of compliance with this policy.
+  c. If the organization operating this domain has annual revenue of more than
+     USD 25 million or €18 million in inflation-adjusted 2013 currency, it
+     will conduct an annual audit of compliance with this policy.
 
 5. USER NOTIFICATION: 
 
- a. If we are required by law to retain or disclose user identifiers, we will
-    attempt to provide the users with notice (unless we are prohibited or it
-    would be futile) that a request for their information has been made in
-    order to give the users an opportunity to object to the retention or
-    disclosure.
+  a. If we are required by law to retain or disclose user identifiers, we will
+     attempt to provide the users with notice (unless we are prohibited or it
+     would be futile) that a request for their information has been made in
+     order to give the users an opportunity to object to the retention or
+     disclosure.
 
- b. We will attempt to provide this notice by email, if the users have given
-    us an email address, and by postal mail if the users have provided a
-    postal address.                                   
+  b. We will attempt to provide this notice by email, if the users have given
+     us an email address, and by postal mail if the users have provided a
+     postal address.                                   
 
- c. If the users do not challenge the disclosure request, we may be legally
-    required to turn over their information.
+  c. If the users do not challenge the disclosure request, we may be legally
+     required to turn over their information.
 
- d. We may delay notice if we, in good faith, believe that an emergency
-    involving danger of death or serious physical injury to any person
-    requires disclosure without delay of information relating to the
-    emergency.
+  d. We may delay notice if we, in good faith, believe that an emergency
+     involving danger of death or serious physical injury to any person
+     requires disclosure without delay of information relating to the
+     emergency.
 
 EXCEPTIONS
 

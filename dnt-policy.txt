@@ -9,12 +9,12 @@ to indicate this fact.
 
 SCOPE
 
-This policy document allows an operator of a Fully Qualified Domain ("domain")
-to declare that it respects Do Not Track as a meaningful privacy opt-out of
-tracking, so that privacy-protecting software can better determine whether to
-block or anonymize communications with this domain.  This policy is intended
-first and foremost to be posted on domains that publish ads, widgets, images,
-scripts and other third-party embedded hypertext (for instance on
+This policy document allows an operator of a Fully Qualified Domain Name
+("domain") to declare that it respects Do Not Track as a meaningful privacy
+opt-out of tracking, so that privacy-protecting software can better determine
+whether to block or anonymize communications with this domain.  This policy is
+intended first and foremost to be posted on domains that publish ads, widgets,
+images, scripts and other third-party embedded hypertext (for instance on
 widgets.example.com), but it can be posted on any domain, including those user
 visit directly (such as www.example.com).  The policy may be applied to some
 domains used by a company, site, or service, and not to others.  Do Not Track
@@ -152,6 +152,7 @@ the following specific situations:
      circumstances, we may retain logs for longer than 7 days, if that is
      necessary diagnose and fix those problems, but this practice will not be
      routinized and we will strive to delete such logs as soon as possible.         
+
 4. AGGREGATION:
 
   a. We may retain and share anonymized datasets, such as aggregate records of
@@ -159,7 +160,7 @@ the following specific situations:
      system variables; or logs with encrypted IP addresses and simplified User
      Agent strings.                                    
 
-  b. "Anonymized" means we have conducted a risk assessment attempting to ensure
+  b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our
      possession or likely to be available to us, does not allow the
      reconstruction of reading habits or online activity of groups of fewer
@@ -175,16 +176,16 @@ to the data.
 
 ADDITIONAL DEFINITIONS
 
-"Fully Qualified Domain" means a DNS name that addresses a computer connected
-to the internet.  For instance, example1.com; www.example1.com;
-ads.example1.com; and widgets.example2.com are all distinct FQDNs
+"Fully Qualified Domain Name" means a domain name that addresses a computer
+connected to the Internet.  For instance, example1.com; www.example1.com;
+ads.example1.com; and widgets.example2.com are all distinct FQDNs.
 
 "Supercookie" means any technology other than an HTTP Cookie which can be used
 by a server to associate identifiers with the clients that visit it.  Examples
 of supercookies include Flash LSO cookies, DOM storage, HTML5 storage, or
 tricks to store information in caches or etags.
 
-"Risk assessment" means an engineering process that evaluates the possibility
+"Risk mitigation" means an engineering process that evaluates the possibility
 and likelihood of various adverse outcomes, considers the available methods of
 making those adverse outcomes less likely, and deploys sufficient mitigations
 to bring the probability and harm from adverse outcomes below an acceptable

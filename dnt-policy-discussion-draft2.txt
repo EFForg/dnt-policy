@@ -45,7 +45,7 @@ listed below:
 2. LOG RETENTION: 
 
   a. Logs with DNT Users' identifiers removed (but including IP addresses and
-     User Agent strings) may be retained for a period of 7 days or less,
+     User Agent strings) may be retained for a period of 10 days or less,
      unless an Exception (below) applies. This period of time balances privacy
      concerns with the need to ensure that log processing systems have time to
      operate; that operations engineers have time to monitor and fix technical
@@ -137,7 +137,8 @@ the following specific situations:
    advertising links; keeping a copy of posted content and the name of the
    posting user; keeping server-side session IDs to recognize logged in
    users; or keeping a copy of the physical address to which a purchased
-   item will be shipped.                      
+   item will be shipped.  By their nature, some transactions will require data
+   to be retained indefinitely.
 
 3. TECHNICAL AND SECURITY LOGGING:                   
 

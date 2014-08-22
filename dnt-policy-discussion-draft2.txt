@@ -157,9 +157,10 @@ the following specific situations:
 4. AGGREGATION:
 
   a. We may retain and share anonymized datasets, such as aggregate records of
-     readership patterns; statistical models of user behavior; graphs of
-     system variables; or logs with encrypted IP addresses and simplified User
-     Agent strings.                                    
+     readership patterns; statistical models of user behavior; graphs of system
+     variables; data structures to count active users on monthly or yearly
+     bases; or logs with encrypted IP addresses and simplified User Agent
+     strings.
 
   b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our

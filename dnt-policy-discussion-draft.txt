@@ -34,13 +34,15 @@ primarily designed to protect privacy ("DNT User"), we will take the following
 measures with respect to those users' data, subject to the Exceptions, also
 listed below:  
 
-1. END USER IDENTIFIERS:         
-
-  a. If a DNT User has logged in to our service, all user identifiers, such as
-     unique or nearly unique cookies, "supercookies" and fingerprints are 
-     discarded as soon as the HTTP(S) response is issued.                                    
-  b. If a DNT User is not logged in to our service, we will take steps to ensure 
-     that no user identifiers are transmitted to us at all.         
+1. END USER IDENTIFIERS:   
+  a. For a DNT User we will take steps to ensure that all all user identifiers, 
+     such as unique or nearly unique cookies, other than those required to
+     authenticate logged-in users to our service, "supercookies" and 
+     fingerprints, are not transmitted to us, and if they are they will be 
+     discarded as soon as the HTTP(S) response is issued.
+  b. We will take steps to ensure that user identifiers used to authenticate a
+     logged-in user will not be transmitted to us beyond 2 hours after the last
+     HTTP(s) request from that user.
 
 2. LOG RETENTION: 
 

@@ -75,8 +75,8 @@ listed below:
      for our DNT Users' data.
 
     NOTE: if an “Other Domain” does not receive identifiable user information
-    from the domain, because such information has been removed or because the
-    Other Domain does not log that information or for some other reason, these
+    from the domain because such information has been removed, because the
+    Other Domain does not log that information, or for some other reason, these
     requirements do not apply.
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 

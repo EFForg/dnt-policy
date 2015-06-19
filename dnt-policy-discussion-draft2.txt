@@ -172,7 +172,7 @@ the following specific situations:
 
 From time to time, there may be errors by which user data is temporarily
 logged or retained in violation of this policy.  If such errors are
-inadvertent, rare, and made in good faith, they does not constitute a breach
+inadvertent, rare, and made in good faith, they do not constitute a breach
 of this policy.  We will delete such data as soon as practicable after we
 become aware of any error and take steps to ensure that it is deleted by any
 third-party who may have had access to the data.

@@ -166,7 +166,7 @@ the following specific situations:
      that the dataset, plus any additional information that is in our
      possession or likely to be available to us, does not allow the
      reconstruction of reading habits or online activity of groups of fewer
-     than 5000 individuals or devices.
+     than 5000 individuals or devices. Service providers should provide public documentation of the method employed to anonymize.
 
 5. ERRORS: 
 

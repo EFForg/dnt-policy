@@ -71,7 +71,7 @@ listed below:
 
     OR  
 
-     obtain a contractual commitment from the recipient to respect this policy
+     employ a contractual commitment from the recipient to respect this policy
      for our DNT Users' data.
 
     NOTE: if an “Other Domain” does not receive identifiable user information

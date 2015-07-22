@@ -170,11 +170,12 @@ the following specific situations:
 
 5. ERRORS: 
 
-From time to time, there may be inadvertent errors by which user data is
-temporarily logged or retained in violation of this policy.  We will delete
-this data as soon practicable after we become aware of the error and take
-steps to ensure that it is deleted by any third-party who may have had access
-to the data.
+From time to time, there may be errors by which user data is temporarily
+logged or retained in violation of this policy.  If such errors are
+inadvertent, rare, and made in good faith, they do not constitute a breach
+of this policy.  We will delete such data as soon as practicable after we
+become aware of any error and take steps to ensure that it is deleted by any
+third-party who may have had access to the data.
 
 ADDITIONAL DEFINITIONS
 

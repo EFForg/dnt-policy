@@ -120,12 +120,21 @@ the following specific situations:
   a. DNT Users are opting out from tracking across the Web.  It is possible
      that for some feature or functionality, we will need to ask a DNT User to
      "opt back in" to be tracked by us across the entire Web.                                    
-
   b. If we do that, we will take reasonable steps to verify that the users who
      select this option have genuinely intended to opt back in to tracking.
      One way to do this is by performing scientifically reasonable user
      studies with a representative sample of our users, but smaller
      organizations can satisfy this requirement by other means.         
+
+  c. Where we believe that we have opt back in consent, our server will
+     send a tracking value status of C as described in section 6.2 of the W3C
+     Tracking Preference Expression draft:
+
+     http://www.w3.org/TR/tracking-dnt/#tracking-status-value
+
+     When sending a tracking value of C we will also send a config property
+     referencing a resource that describes how such consent is established
+     and how to revoke that consent.
 
 2. TRANSACTIONS         
 

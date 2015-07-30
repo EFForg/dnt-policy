@@ -81,14 +81,9 @@ listed below:
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 
 
-  a. At least once every 12 months, we reassert compliance with this document.
-
-  b. This reassertion must be after reasonable efforts to ensure that the
-     assertion of compliance is accurate. 
-
-  c. If the organization operating this domain has annual revenue of more than
-     USD 25 million or €18 million in inflation-adjusted 2013 currency, it
-     will conduct an annual audit of compliance with this policy.
+  At least once every 12 months, we will take reasonable steps commensurate with 
+  the size of our organization and the nature of our service to confirm our ongoing 
+  compliance with this document, and we will publicly reassert our compliance.
 
 5. USER NOTIFICATION: 
 

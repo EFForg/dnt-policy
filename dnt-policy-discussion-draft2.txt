@@ -79,6 +79,9 @@ listed below:
     Other Domain does not log that information, or for some other reason, these
     requirements do not apply.
 
+  c. "Identfiable" means any records which are not Anonymized or otherwise
+     covered by the Exceptions below.
+
 4. PERIODIC REASSERTION OF COMPLIANCE: 
 
   a. At least once every 12 months, we reassert compliance with this document.

@@ -94,10 +94,10 @@ listed below:
      employ a contractual commitment from the recipient to respect this policy
      for our DNT Users' data.
 
-     NOTE: if an “Other Domain” does not receive identifiable user information
-     from the domain because such information has been removed, because the
-     Other Domain does not log that information, or for some other reason, these
-     requirements do not apply.
+    NOTE: if an “Other Domain” does not receive identifiable user information
+    from the domain because such information has been removed, because the
+    Other Domain does not log that information, or for some other reason, these
+    requirements do not apply.
 
   c. "Identfiable" means any records which are not Anonymized or otherwise
      covered by the Exceptions below.
@@ -176,7 +176,7 @@ the following specific situations:
      specific information that causes our employees or systems to believe that
      a request is, or is likely to be, part of a security attack, spam
      submission, or fraudulent transaction, then logs of those requests are
-     not subject to this policy.                                   
+     not subject to this policy.
 
   b. If we encounter technical problems with our site, then, in rare
      circumstances, we may retain logs for longer than 30 days, if that is

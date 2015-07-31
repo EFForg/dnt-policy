@@ -104,14 +104,10 @@ listed below:
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 
 
-  a. At least once every 12 months, we reassert compliance with this document.
-
-  b. This reassertion must be after reasonable efforts to ensure that the
-     assertion of compliance is accurate. 
-
-  c. If the organization operating this domain has annual revenue of more than
-     USD 25 million or €18 million in inflation-adjusted 2013 currency, it
-     will conduct an annual audit of compliance with this policy.
+  At least once every 12 months, we will take reasonable steps commensurate
+  with the size of our organization and the nature of our service to confirm
+  our ongoing compliance with this document, and we will publicly reassert our
+  compliance.
 
 5. USER NOTIFICATION: 
 
@@ -143,12 +139,21 @@ the following specific situations:
   a. DNT Users are opting out from tracking across the Web.  It is possible
      that for some feature or functionality, we will need to ask a DNT User to
      "opt back in" to be tracked by us across the entire Web.                                    
-
   b. If we do that, we will take reasonable steps to verify that the users who
      select this option have genuinely intended to opt back in to tracking.
      One way to do this is by performing scientifically reasonable user
      studies with a representative sample of our users, but smaller
      organizations can satisfy this requirement by other means.         
+
+  c. Where we believe that we have opt back in consent, our server will
+     send a tracking value status header "Tk: C" as described in section 6.2
+     of the W3C Tracking Preference Expression draft:
+
+     http://www.w3.org/TR/tracking-dnt/#tracking-status-value
+
+     When sending a tracking value of C we will also send a config property
+     referencing a resource that describes how such consent is established
+     and how to revoke that consent.
 
 2. TRANSACTIONS         
 
@@ -191,9 +196,12 @@ the following specific situations:
   b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our
      possession or likely to be available to us, does not allow the
-     reconstruction of reading habits, online or offline activity of groups of 
-     fewer than 5000 individuals or devices. Service providers should provide 
-     public documentation of the method employed to anonymize.
+     reconstruction of reading habits, online or online activity of groups of
+     fewer than 5000 individuals or devices. 
+
+  c. If we generate anonymized datasets under this exception we will publicly
+     document our anonymization methods in sufficient detail to allow outside
+     experts to evaluate the effectiveness of those methods.
 
 5. ERRORS: 
 

@@ -213,3 +213,9 @@ and likelihood of various adverse outcomes, considers the available methods of
 making those adverse outcomes less likely, and deploys sufficient mitigations
 to bring the probability and harm from adverse outcomes below an acceptable
 threshold.
+
+"Reading habits" includes amongst other things lists of visited DNS names, if
+those domains pertain to specific topics or activities, but records of visited
+DNS names are not reading habits if those domain names serve content of a very
+diverse and general nature, thereby revealing minimal information about the
+opinions, interests or activities of the user.

@@ -178,8 +178,8 @@ the following specific situations:
      reconstruction of reading habits, online or online activity of groups of
      fewer than 5000 individuals or devices. 
 
-  c. Any party generating datasets under this exception should publicly
-     document its anonymization methods in sufficient detail to allow outside
+  c. If we generate anonymized datasets under this exception we will publicly
+     document our anonymization methods in sufficient detail to allow outside
      experts to evaluate the effectiveness of those methods.
 
 5. ERRORS: 

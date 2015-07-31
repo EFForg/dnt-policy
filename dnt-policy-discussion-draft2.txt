@@ -1,6 +1,6 @@
 Do Not Track Compliance Policy 
 
-Discussion version [0.2 in progress]
+Discussion [Version 1.0pre]
 
 This domain complies with user opt-outs from tracking via the "Do Not Track"
 or "DNT" header  [http://www.w3.org/TR/tracking-dnt/].  This file will always

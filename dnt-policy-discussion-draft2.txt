@@ -64,7 +64,7 @@ listed below:
 2. LOG RETENTION: 
 
   a. Logs with DNT Users' identifiers removed (but including IP addresses and
-     User Agent strings) may be retained for a period of 10 days or less,
+     User Agent strings) may be retained for a period of 30 days or less,
      unless an Exception (below) applies. Cookie values may be retained in
      logs for a period of 72 hours or less.  These periods of time balances 
      privacy concerns with the need to ensure that log processing systems have 
@@ -167,14 +167,14 @@ the following specific situations:
 
   a. If, during the processing of the initial request (for non-cookie unique
      identifiers), the subsequent 72 hours (for unique cookies) or during the
-     subsequent 10 days (for IP addresses and User Agent strings), we obtain
+     subsequent 30 days (for IP addresses and User Agent strings), we obtain
      specific information that causes our employees or systems to believe that
      a request is, or is likely to be, part of a security attack, spam
      submission, or fraudulent transaction, then logs of those requests are
      not subject to this policy.                                   
 
   b. If we encounter technical problems with our site, then, in rare
-     circumstances, we may retain logs for longer than 10 days, if that is
+     circumstances, we may retain logs for longer than 30 days, if that is
      necessary diagnose and fix those problems, but this practice will not be
      routinized and we will strive to delete such logs as soon as possible.         
 

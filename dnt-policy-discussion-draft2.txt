@@ -154,9 +154,9 @@ the following specific situations:
   a. If, during the processing of the initial request (for unique identifiers)
      or during the subsequent 10 days (for IP addresses and User Agent strings),
      we obtain specific information that causes our employees or systems to
-     believe that a request is, or is likely to be, part of a security attack or
-     fraudulent transaction, then logs of those requests are not subject to this
-     policy.                                   
+     believe that a request is, or is likely to be, part of a security attack,
+     spam submission, or fraudulent transaction, then logs of those requests 
+     are not subject to this policy.                                   
 
   b. If we encounter technical problems with our site, then, in rare
      circumstances, we may retain logs for longer than 10 days, if that is

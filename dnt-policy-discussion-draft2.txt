@@ -37,26 +37,40 @@ listed below:
 1. END USER IDENTIFIERS:         
 
   a. If a DNT User has logged in to our service, all user identifiers, such as
-     unique or nearly unique cookies, "supercookies" and fingerprints are 
-     discarded as soon as the HTTP(S) response is issued.                                    
+     unique or nearly unique cookies, "supercookies" and fingerprints do not
+     persist on our servers for more than 72 hours after an HTTP(S) response is
+     issued.
 
      Data structures which associate user identifiers with accounts may be
      employed to recognize logged in users per Exception 4 below, but may not
      be associated with records of the user's activities unless otherwise
      excepted.
 
-  b. If a DNT User is not logged in to our service, we will take steps to ensure 
-     that no user identifiers are transmitted to us at all.         
+  b. If a DNT User is not logged in to our service, we will take steps to
+     ensure that no non-cookie user identifiers are transmitted to us at all;
+     and if we send or receive unique cookies, we will:
+
+     i.   Ensure that such cookies do not persist in browsers for longer than
+          72 hours, and that our systems do not routinely link past
+          values of these cookies to subsequent values.
+
+     ii.  Limit the use of unique cookies to the purposes covered by the
+          Exceptions below.
+
+     iii. Understand that some users or client software may decide to block
+          these cookies, and where possible ensure that user-facing
+          functionality is unaffected by cookie blocking or deletion.
 
 2. LOG RETENTION: 
 
   a. Logs with DNT Users' identifiers removed (but including IP addresses and
-     User Agent strings) may be retained for a period of 10 days or less,
-     unless an Exception (below) applies. This period of time balances privacy
-     concerns with the need to ensure that log processing systems have time to
-     operate; that operations engineers have time to monitor and fix technical
-     and performance problems; and that security and data aggregation systems
-     have time to operate.
+     User Agent strings) may be retained for a period of 30 days or less,
+     unless an Exception (below) applies. Cookie values may be retained in
+     logs for a period of 72 hours or less.  These periods of time balances 
+     privacy concerns with the need to ensure that log processing systems have 
+     time to operate; that operations engineers have time to monitor and fix
+     technical and performance problems; and that security and data aggregation
+     systems have time to operate.
 
   b. These logs will not be used for any other purposes.         
 
@@ -151,15 +165,16 @@ the following specific situations:
 
 3. TECHNICAL AND SECURITY LOGGING:                   
 
-  a. If, during the processing of the initial request (for unique identifiers)
-     or during the subsequent 10 days (for IP addresses and User Agent strings),
-     we obtain specific information that causes our employees or systems to
-     believe that a request is, or is likely to be, part of a security attack,
-     spam submission, or fraudulent transaction, then logs of those requests 
-     are not subject to this policy.                                   
+  a. If, during the processing of the initial request (for non-cookie unique
+     identifiers), the subsequent 72 hours (for unique cookies) or during the
+     subsequent 30 days (for IP addresses and User Agent strings), we obtain
+     specific information that causes our employees or systems to believe that
+     a request is, or is likely to be, part of a security attack, spam
+     submission, or fraudulent transaction, then logs of those requests are
+     not subject to this policy.
 
   b. If we encounter technical problems with our site, then, in rare
-     circumstances, we may retain logs for longer than 10 days, if that is
+     circumstances, we may retain logs for longer than 30 days, if that is
      necessary diagnose and fix those problems, but this practice will not be
      routinized and we will strive to delete such logs as soon as possible.         
 
@@ -169,9 +184,11 @@ the following specific situations:
      readership patterns; statistical models of user behavior; graphs of system
      variables; data structures to count active users on monthly or yearly
      bases; database tables mapping authentication cookies to logged in
-     accounts; non-unique data structures constructed within browsers for tasks
-     such as ad frequency capping or conversion tracking; or logs with truncated
-     and/or encrypted IP addresses and simplified User Agent strings.
+     accounts; records of observed user IDs (not containing information about
+     their activities); non-unique data structures constructed within browsers
+     for tasks such as ad frequency capping or conversion tracking; or logs
+     with truncated and/or encrypted IP addresses and simplified User Agent
+     strings.
 
   b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our

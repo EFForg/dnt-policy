@@ -39,6 +39,12 @@ listed below:
   a. If a DNT User has logged in to our service, all user identifiers, such as
      unique or nearly unique cookies, "supercookies" and fingerprints are 
      discarded as soon as the HTTP(S) response is issued.                                    
+
+     Data structures which associate user identifiers with accounts may be
+     employed to recognize logged in users per Exception 4 below, but may not
+     be associated with records of the user's activities unless otherwise
+     excepted.
+
   b. If a DNT User is not logged in to our service, we will take steps to ensure 
      that no user identifiers are transmitted to us at all.         
 
@@ -78,6 +84,9 @@ listed below:
     from the domain because such information has been removed, because the
     Other Domain does not log that information, or for some other reason, these
     requirements do not apply.
+
+  c. "Identfiable" means any records which are not Anonymized or otherwise
+     covered by the Exceptions below.
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 
 
@@ -159,14 +168,15 @@ the following specific situations:
   a. We may retain and share anonymized datasets, such as aggregate records of
      readership patterns; statistical models of user behavior; graphs of system
      variables; data structures to count active users on monthly or yearly
-     bases; or logs with encrypted IP addresses and simplified User Agent
+     bases; database tables mapping authentication cookies to logged in
+     accounts; or logs with encrypted IP addresses and simplified User Agent
      strings.
 
   b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our
      possession or likely to be available to us, does not allow the
-     reconstruction of reading habits or online activity of groups of fewer
-     than 5000 individuals or devices. 
+     reconstruction of reading habits, online or online activity of groups of
+     fewer than 5000 individuals or devices. 
 
   c. Any party generating datasets under this exception should publicly
      document its anonymization methods in sufficient detail to allow outside

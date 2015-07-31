@@ -127,8 +127,8 @@ the following specific situations:
      organizations can satisfy this requirement by other means.         
 
   c. Where we believe that we have opt back in consent, our server will
-     send a tracking value status of C as described in section 6.2 of the W3C
-     Tracking Preference Expression draft:
+     send a tracking value status header "Tk: C" as described in section 6.2
+     of the W3C Tracking Preference Expression draft:
 
      http://www.w3.org/TR/tracking-dnt/#tracking-status-value
 

@@ -189,9 +189,11 @@ the following specific situations:
      readership patterns; statistical models of user behavior; graphs of system
      variables; data structures to count active users on monthly or yearly
      bases; database tables mapping authentication cookies to logged in
-     accounts; non-unique data structures constructed within browsers for tasks
-     such as ad frequency capping or conversion tracking; or logs with truncated
-     and/or encrypted IP addresses and simplified User Agent strings.
+     accounts; records of observed user IDs (not containing information about
+     their activities); non-unique data structures constructed within browsers
+     for tasks such as ad frequency capping or conversion tracking; or logs
+     with truncated and/or encrypted IP addresses and simplified User Agent
+     strings.
 
   b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our

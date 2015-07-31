@@ -81,9 +81,10 @@ listed below:
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 
 
-  At least once every 12 months, we will take reasonable steps commensurate with 
-  the size of our organization and the nature of our service to confirm our ongoing 
-  compliance with this document, and we will publicly reassert our compliance.
+  At least once every 12 months, we will take reasonable steps commensurate
+  with the size of our organization and the nature of our service to confirm
+  our ongoing compliance with this document, and we will publicly reassert our
+  compliance.
 
 5. USER NOTIFICATION: 
 

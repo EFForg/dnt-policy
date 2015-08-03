@@ -1,1 +1,1 @@
-dnt-policy-discussion-draft.txt
+dnt-policy-1.0.txt

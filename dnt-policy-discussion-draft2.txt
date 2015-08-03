@@ -15,8 +15,8 @@ opt-out of tracking, so that privacy-protecting software can better determine
 whether to block or anonymize communications with this domain.  This policy is
 intended first and foremost to be posted on domains that publish ads, widgets,
 images, scripts and other third-party embedded hypertext (for instance on
-widgets.example.com), but it can be posted on any domain, including those user
-visit directly (such as www.example.com).  The policy may be applied to some
+widgets.example.com), but it can be posted on any domain, including those users
+visit directly (such as www.example.com). The policy may be applied to some
 domains used by a company, site, or service, and not to others.  Do Not Track
 may be sent by any client that uses the HTTP protocol, including websites,
 mobile apps, and smart devices like TVs. Do Not Track also works with all
@@ -85,7 +85,7 @@ listed below:
     Other Domain does not log that information, or for some other reason, these
     requirements do not apply.
 
-  c. "Identfiable" means any records which are not Anonymized or otherwise
+  c. "Identifiable" means any records which are not Anonymized or otherwise
      covered by the Exceptions below.
 
 4. PERIODIC REASSERTION OF COMPLIANCE: 
@@ -162,7 +162,7 @@ the following specific situations:
 
   b. If we encounter technical problems with our site, then, in rare
      circumstances, we may retain logs for longer than 10 days, if that is
-     necessary diagnose and fix those problems, but this practice will not be
+     necessary to diagnose and fix those problems, but this practice will not be
      routinized and we will strive to delete such logs as soon as possible.         
 
 4. AGGREGATION:
@@ -178,7 +178,7 @@ the following specific situations:
   b. "Anonymized" means we have conducted risk mitigation to ensure
      that the dataset, plus any additional information that is in our
      possession or likely to be available to us, does not allow the
-     reconstruction of reading habits, online or online activity of groups of
+     reconstruction of reading habits, online or offline activity of groups of
      fewer than 5000 individuals or devices. 
 
   c. If we generate anonymized datasets under this exception we will publicly
